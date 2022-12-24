@@ -7,9 +7,9 @@ Run your own Stacks Blockchain node easily with just few commands.
 
 ---
 
-## Quickstart
+## Szybki start
 
-```bash
+``` bać
 git clone https://github.com/stacks-network/stacks-blockchain-docker && cd stacks-blockchain-docker
 cp sample.env .env
 ./manage.sh -n mainnet -a start
